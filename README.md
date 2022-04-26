@@ -1,4 +1,4 @@
-# Wireguard credentials generator
+# Credentials generator
 The system is developed for exchanging the pair of keys and all necessary information about server and entering ports for WireGuard VPN connection within the faculty network.
 
 ### Specifications
