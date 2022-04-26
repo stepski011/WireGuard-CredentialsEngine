@@ -6,7 +6,6 @@ Main functionalitites are creation of WG session credentials, based on data stor
 Every student receives pair of keys for server, and have to use previoulsy generated PGP keys.
 Aditional functionality provides fully generated configuration file for clients.
 Another PLSQL engine creates sessions for student group, with expiration date.
-#### GUI
 Oracle APEX provide possibility for adapting the User Interface, so changes of environments are possible and easy to do.
 
 ### Licence
